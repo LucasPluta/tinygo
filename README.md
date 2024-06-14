@@ -11,7 +11,7 @@ It reuses libraries used by the [Go language tools](https://golang.org/pkg/go/) 
 Here is an example program that blinks the built-in LED when run directly on any supported board with onboard LED:
 
 ```go
-package main
+package main 
 
 import (
     "machine"
